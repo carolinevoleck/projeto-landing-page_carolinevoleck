@@ -24,11 +24,9 @@ A sua Landing Page deve conter:
         * Nossos produtos/serviços
         * Contato
       
-![Uploading 2023-06-15.png…]()
 
-	
-![Uploading 2023-06-15 (2).png…]()
-	
+![2023-06-15](https://github.com/carolinevoleck/projeto-landing-page_carolinevoleck/assets/116590798/31f0bb26-e86d-425e-9d4a-2f1e106c63de)
 
-![Uploading 2023-06-15 (1).png…]()
+![2023-06-15 (2)](https://github.com/carolinevoleck/projeto-landing-page_carolinevoleck/assets/116590798/5c7c065f-4c33-49a0-8aae-f39795b8c3af)
 
+![2023-06-15 (1)](https://github.com/carolinevoleck/projeto-landing-page_carolinevoleck/assets/116590798/dc5e56cd-c6e1-42e4-b933-90253e2ccaa5)
